@@ -217,6 +217,21 @@ This research was conducted at **[SCAI Lab](https://scai.ethz.ch/)** led by Dr. 
 ## Funding
 This study was partially funded by the Schweizer Paraplegiker Stiftung (SPS) and the ETH Zürich Foundation under the 2021-HS-348 ETH-SPS Digital Transformation in Personalized Healthcare for SCI individuals, and JST Moonshot R&D Program, Grant Number JPMJMS2034-18.
 
+## Citation
+
+If you use **Tifex-Py** in your research or project, please cite our paper:
+
+```bibtex
+@inproceedings{ejtehadi2025tifexpy,
+  author    = {Ejtehadi, Mehdi and Graham, G. E. and Ringstrom, C. and Du, E. and Riener, Robert and Paez-Granados, Diego},
+  title     = {{Tifex-Py}: Time-Series Feature Extraction for Python in a Human Activity Recognition Scenario},
+  booktitle = {2025 International Conference on Rehabilitation Robotics (ICORR)},
+  year      = {2025},
+  pages     = {1332--1339},
+  address   = {Chicago, IL, USA},
+  doi       = {10.1109/ICORR66766.2025.11062978}
+}
+
 
 
 
